@@ -13,6 +13,8 @@ public class IndexController {
 	public String list(HttpServletRequest request){
 		
 		return "index";
+
+
 	}
 	
 }
